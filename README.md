@@ -1,7 +1,10 @@
 # BegrotingTool
 Een tool om je netto salaris te berekenen o.b.v. je bruto salaris
+
 BegrotingTool Readme
+
 Introduction
+
 Welcome to BegrotingTool (Budgeting Tool)! This C# application is designed to help you calculate the net income from the gross income. This tool is perfect for anyone looking to manage their finances or understand the breakdown of their earnings after taxes and deductions.
 
 Motivation
