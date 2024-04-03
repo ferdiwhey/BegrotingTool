@@ -38,6 +38,7 @@ Please note that BegrotingTool is still a work in progress. While it provides ba
 Contributions to refactor and improve the codebase are highly encouraged. Your help in making BegrotingTool better and more efficient is greatly appreciated!
 
 Contact
+
 If you have any questions, suggestions, or just want to say hi, feel free to contact me at ferdiw7@hotmail.com.
 
 Thank you for using BegrotingTool! Happy budgeting! 📊💰
